@@ -2,7 +2,6 @@
 
 ## PROJECT REPORT
 
-### VITyarthi – Build Your Own Project
 
 ---
 
