@@ -5,7 +5,7 @@
 
 ---
 
-## COVER PAGE
+
 
 # COLLEGE EVENT MANAGEMENT SYSTEM
 ### A Core Java-Based Command-Line Application
