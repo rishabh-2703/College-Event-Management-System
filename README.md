@@ -340,6 +340,3 @@ Specialization: Artificial Intelligence & Machine Learning
 
 ---
 
-## License
-
-This project is developed for educational and academic purposes.
