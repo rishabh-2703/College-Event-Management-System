@@ -1,6 +1,6 @@
 # STATEMENT OF WORK & PROBLEM STATEMENT
 
-## VITyarthi – Build Your Own Project
+
 
 ---
 
