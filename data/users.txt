@@ -1,0 +1,4 @@
+1|Admin|admin@college.com|admin123|ADMIN
+2|College Organizer|organizer@college.com|org123|ORGANIZER
+3|Demo Student|student@college.com|student123|STUDENT
+4|rishab|r@gmail.com|1|ORGANIZER
